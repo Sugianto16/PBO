@@ -1,0 +1,3 @@
+1.diawali dgn huruf atau underscore
+2. bersifat case-sensitif (membedakan huruf kecil dan besar)
+3. tidak boleh ada spasi
